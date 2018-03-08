@@ -1,0 +1,22 @@
+.jumboCard {
+	background-color: #4A5FAB;
+	color: white;
+	width: 90%;
+	height: 575px;
+	margin: 70px 5% 30px 5%;
+  display: inline-table;
+}
+
+/*so that the clickable area fills the jumbocard*/
+.jumboCardFlip {
+  display: inline-table;
+  width: 100%;
+  height: 100%;
+}
+
+p.centerTextJC {
+  text-align:center; 
+  vertical-align: middle;
+  display: table-cell;
+  font-size: 60px;
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "word": "one",
+    "bword": "bone"
+  },
+  {
+    "id": 2,
+    "word": "two",
+    "bword": "btwo"
+  },
+  {
+    "id": 3,
+    "word": "three",
+    "bword": "bthree"
+  },
+  {
+    "id": 4,
+    "word": "four",
+    "bword": "bfour"
+  },
+  {
+    "id": 5,
+    "word": "five",
+    "bword": "bfive"
+  }
+]
